@@ -1,0 +1,4 @@
+Three local commits (not pushed to GitHub):
+af41580 fix(security): parameterize SQL and remove eval
+2f203aa fix(pylint): harden dues ledger behavior and naming
+35bd7e1 style(flake8): format SQL and inline comment
